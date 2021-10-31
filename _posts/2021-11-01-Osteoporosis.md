@@ -1,4 +1,10 @@
-```python
-2021-11-01-Osteoporosis
-OSteoprosis = BMD + BOne qualtiy 
-```
+---
+layout: post
+title:  "Welcome to Orthopedics"
+---
+
+# Welcome
+
+**Hello world**, this is my first Ortho post
+
+I hope you like it!
