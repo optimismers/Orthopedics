@@ -3,7 +3,7 @@ layout: post
 title:  "Osteoporosis"
 ---
 
-2021-11-01-Osteoporosis
+Osteoporosis
 <br><br><br>
 1) OSteoprosis = BMD + BOne qualtiy 
 
