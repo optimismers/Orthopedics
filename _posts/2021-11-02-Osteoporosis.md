@@ -4,7 +4,7 @@ title:  "Osteoporosis"
 ---
 
 2021-11-01-Osteoporosis
-
+<br><br><br>
 1) OSteoprosis = BMD + BOne qualtiy 
 
 (1)BMD의 진단
@@ -20,7 +20,7 @@ title:  "Osteoporosis"
  <p></p>
   <p></p>
    <p></p>
-
+<br><br><br>
 
 2) BIochemical marker
  <p> (1) 골 형성 표지자 
@@ -39,7 +39,7 @@ title:  "Osteoporosis"
  <p></p>
   <p></p> 
    <p></p>
- 
+ <br><br><br>
  3) Osteoprosiss category 
  
  T값 >= -1.0 : 정상
