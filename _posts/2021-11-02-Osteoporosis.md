@@ -21,7 +21,7 @@ title:  "Osteoporosis"
 
 
 2) BIochemical marker
-(1) 골 형성 표지자 
+ (1) 골 형성 표지자 
  - BSALP(Bone specific alkaline phosphatase)와 OC(Osteocalcin)등의 단백, 전구콜라겐(PCIP, PINP)
  - 1형 콜라겐은 뼈에만 존재하는 것이 아니기 때문에 현재 골형성 표지자로 골 특이 알칼리성 인사분해효소와 오스테오칼신을 가장 많이 사용한다. 
  
